@@ -1,0 +1,12 @@
+House
+London
+3000000
+House
+Newcastle Upon a Tyne
+2000000
+2 bedroom flat
+Newcastle Upon a Tyne
+2000000
+House
+York
+2000000
