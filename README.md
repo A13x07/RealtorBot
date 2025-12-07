@@ -23,18 +23,8 @@ Technologies:
 
 Project Structure
 
+![Uploading image.png…]()
 
-real-estate-bot/
-│
-├── data/
-│   ├── flats.txt
-│   ├── houses.txt
-│   └── land.txt
-│
-├── main.py
-├── utils.py
-├── .env               # your bot token here
-└── README.md
 ---
 
 Installation & Run:  
