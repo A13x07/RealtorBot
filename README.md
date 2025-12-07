@@ -23,7 +23,7 @@ Technologies:
 
 Project Structure
 
-![Uploading image.png…]()
+<img width="240" height="206" alt="image" src="https://github.com/user-attachments/assets/cf77987e-fca3-4577-8a29-3656b9f6b580" />
 
 ---
 
