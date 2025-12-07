@@ -6,10 +6,35 @@ All data is stored locally in text files.
 
 ---
 
+Features
+ • Search properties by type (flats, houses, land)
+ • Filter by city and price range
+ • Simple file-based storage (no database needed)
+ • Easy to modify and expand
+ • Works on any device with Python3
+
+---
+
 Technologies:  
 - Python 3  
 - telebot (PyTelegramBotAPI)
 
+---
+
+Project Structure
+
+
+real-estate-bot/
+│
+├── data/
+│   ├── flats.txt
+│   ├── houses.txt
+│   └── land.txt
+│
+├── main.py
+├── utils.py
+├── .env               # your bot token here
+└── README.md
 ---
 
 Installation & Run:  
@@ -33,8 +58,30 @@ Installation & Run:
 
 ---
 
+Bot Commands:
+Command,Description
+/start,Greeting + menu
+/search,Start property search
+/help,Show available commands
+
+---
+
+Example User Flow
+
+User: /search
+Bot: “Choose property type: Flat / House / Land”
+User: “Flat”
+Bot: “Enter city:”
+User: “Kyiv”
+Bot: “Enter max price:”
+User: “60000”
+Bot: Results from data/flats.txt
+
+---
+
 License:  
 This work is in the public domain.
+Licensed under the MIT License — free to use, modify, and distribute
 
 ---
 
