@@ -48,11 +48,13 @@ Installation & Run:
 
 ---
 
-Bot Commands:
+#Bot Commands:
+
 Command,Description
-/start,Greeting + menu
-/search,Start property search
-/help,Show available commands
+
+## /start,Greeting + menu
+## /search,Start property search
+## /help,Show available commands
 
 ---
 
