@@ -58,16 +58,23 @@ Command,Description
 
 ---
 
-Example User Flow
+#Example User Flow
 
-User: /search
-Bot: “Choose property type: Flat / House / Land”
-User: “Flat”
-Bot: “Enter city:”
-User: “Kyiv”
-Bot: “Enter max price:”
-User: “60000”
-Bot: Results from data/flats.txt
+## User: /search
+
+## Bot: “Choose property type: Flat / House / Land”
+
+## User: “Flat”
+
+## Bot: “Enter city:”
+
+## User: “Kyiv”
+
+## Bot: “Enter max price:”
+
+## User: “60000”
+
+## Bot: Results from data/flats.txt
 
 ---
 
